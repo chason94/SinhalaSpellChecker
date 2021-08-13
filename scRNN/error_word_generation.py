@@ -260,8 +260,8 @@ class AddNoise():
         self.noise_frew = {
                             self.passThrough : 50,
                             self.natural : 41,
-                            self.insertion_0 : 1,
-                            self.insertion_1 : 2, 
+                            self.insertion_0 : 1, # adding consonats
+                            self.insertion_1 : 2, # adding diacrtics
                             self.deletion : 3, 
                             self.jumble : 3, 
                             }
