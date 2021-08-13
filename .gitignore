@@ -1,0 +1,12 @@
+*.txt
+*.json
+*.csv
+*.xml
+*.ini
+*.pyc
+*.cpython
+*.pb
+*.index
+*.zip
+*.docx
+*.pkl
