@@ -1,4 +1,3 @@
 # Folder containg dataset files
 
-- Download data from [here](https://drive.google.com/drive/folders/1ejKSkiHNOlupxXVDMg67rPdqwowsTq1i?usp=sharing) and keep in this folder
-- Alternatively, run [download_datafiles.py](./download_datafiles.py) as ```python download_datafiles.py``` to download all the datasets
+- Download data from [here](https://dms.uom.lk/apps/files/?dir=/Charana/Train%20Dataset&fileid=13559837)
