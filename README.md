@@ -12,3 +12,8 @@ cd SinhalaSpellChecker
 pip install -e . 
 ```
 
+This repositery contains models taken from
+```bash
+https://github.com/neuspell/neuspell
+```
+
